@@ -1,0 +1,151 @@
+movie_title,actor_name,position_order
+The Shawshank Redemption,Tim Robbins,1
+The Shawshank Redemption,Morgan Freeman,2
+The Shawshank Redemption,Bob Gunton,3
+The Godfather,Marlon Brando,1
+The Godfather,Al Pacino,2
+The Godfather,James Caan,3
+The Dark Knight,Christian Bale,1
+The Dark Knight,Heath Ledger,2
+The Dark Knight,Aaron Eckhart,3
+The Godfather Part II,Al Pacino,1
+The Godfather Part II,Robert De Niro,2
+The Godfather Part II,Robert Duvall,3
+12 Angry Men,Henry Fonda,1
+12 Angry Men,Lee J. Cobb,2
+12 Angry Men,Martin Balsam,3
+The Lord of the Rings: The Return of the King,Elijah Wood,1
+The Lord of the Rings: The Return of the King,Viggo Mortensen,2
+The Lord of the Rings: The Return of the King,Ian McKellen,3
+Schindler&apos;s List,Liam Neeson,1
+Schindler&apos;s List,Ralph Fiennes,2
+Schindler&apos;s List,Ben Kingsley,3
+Pulp Fiction,John Travolta,1
+Pulp Fiction,Uma Thurman,2
+Pulp Fiction,Samuel L. Jackson,3
+Modern Times,Charles Chaplin,1
+Modern Times,Paulette Goddard,2
+Modern Times,Henry Bergman,3
+Alien,Sigourney Weaver,1
+Alien,Tom Skerritt,2
+Alien,John Hurt,3
+Intouchables,François Cluzet,1
+Intouchables,Omar Sy,2
+Intouchables,Anne Le Ny,3
+The Usual Suspects,Kevin Spacey,1
+The Usual Suspects,Gabriel Byrne,2
+The Usual Suspects,Chazz Palminteri,3
+Nuovo Cinema Paradiso,Philippe Noiret,1
+Nuovo Cinema Paradiso,Enzo Cannavale,2
+Nuovo Cinema Paradiso,Antonella Attili,3
+Casablanca,Humphrey Bogart,1
+Casablanca,Ingrid Bergman,2
+Casablanca,Paul Henreid,3
+Spider-Man: Across the Spider-Verse,Shameik Moore,1
+Spider-Man: Across the Spider-Verse,Hailee Steinfeld,2
+Spider-Man: Across the Spider-Verse,Brian Tyree Henry,3
+Léon,Jean Reno,1
+Léon,Gary Oldman,2
+Léon,Natalie Portman,3
+American History X,Edward Norton,1
+American History X,Edward Furlong,2
+American History X,Beverly D'Angelo,3
+The Prestige,Christian Bale,1
+The Prestige,Hugh Jackman,2
+The Prestige,Scarlett Johansson,3
+Seppuku,Tatsuya Nakadai,1
+Seppuku,Akira Ishihama,2
+Seppuku,Shima Iwashita,3
+Whiplash,Miles Teller,1
+Whiplash,J.K. Simmons,2
+Whiplash,Melissa Benoist,3
+The Departed,Leonardo DiCaprio,1
+The Departed,Matt Damon,2
+The Departed,Jack Nicholson,3
+Hotaru no haka,Tsutomu Tatsumi,1
+Hotaru no haka,Ayano Shiraishi,2
+Hotaru no haka,Akemi Yamaguchi,3
+The Lion King,Matthew Broderick,1
+The Lion King,Jeremy Irons,2
+The Lion King,James Earl Jones,3
+Psycho,Anthony Perkins,1
+Psycho,Janet Leigh,2
+Psycho,Vera Miles,3
+Gisaengchung,Song Kang-ho,1
+Gisaengchung,Lee Sun-kyun,2
+Gisaengchung,Cho Yeo-jeong,3
+Gladiator,Russell Crowe,1
+Gladiator,Joaquin Phoenix,2
+Gladiator,Connie Nielsen,3
+The Pianist,Adrien Brody,1
+The Pianist,Thomas Kretschmann,2
+The Pianist,Frank Finlay,3
+Sen to Chihiro no kamikakushi,Daveigh Chase,1
+Sen to Chihiro no kamikakushi,Suzanne Pleshette,2
+Sen to Chihiro no kamikakushi,Miyu Irino,3
+Back to the Future,Michael J. Fox,1
+Back to the Future,Christopher Lloyd,2
+Back to the Future,Lea Thompson,3
+Star Wars,Mark Hamill,1
+Star Wars,Harrison Ford,2
+Star Wars,Carrie Fisher,3
+Terminator 2: Judgment Day,Arnold Schwarzenegger,1
+Terminator 2: Judgment Day,Linda Hamilton,2
+Terminator 2: Judgment Day,Edward Furlong,3
+La vita è bella,Roberto Benigni,1
+La vita è bella,Nicoletta Braschi,2
+La vita è bella,Giorgio Cantarini,3
+Cidade de Deus,Alexandre Rodrigues,1
+Cidade de Deus,Leandro Firmino,2
+Cidade de Deus,Matheus Nachtergaele,3
+The Green Mile,Tom Hanks,1
+The Green Mile,Michael Clarke Duncan,2
+The Green Mile,David Morse,3
+Saving Private Ryan,Tom Hanks,1
+Saving Private Ryan,Matt Damon,2
+Saving Private Ryan,Tom Sizemore,3
+Shichinin no samurai,Toshirô Mifune,1
+Shichinin no samurai,Takashi Shimura,2
+Shichinin no samurai,Keiko Tsushima,3
+The Silence of the Lambs,Jodie Foster,1
+The Silence of the Lambs,Anthony Hopkins,2
+The Silence of the Lambs,Scott Glenn,3
+It&apos;s a Wonderful Life,James Stewart,1
+It&apos;s a Wonderful Life,Donna Reed,2
+It&apos;s a Wonderful Life,Lionel Barrymore,3
+Se7en,Morgan Freeman,1
+Se7en,Brad Pitt,2
+Se7en,Kevin Spacey,3
+One Flew Over the Cuckoo&apos;s Nest,Jack Nicholson,1
+One Flew Over the Cuckoo&apos;s Nest,Louise Fletcher,2
+One Flew Over the Cuckoo&apos;s Nest,Michael Berryman,3
+Interstellar,Matthew McConaughey,1
+Interstellar,Anne Hathaway,2
+Interstellar,Jessica Chastain,3
+GoodFellas,Robert De Niro,1
+GoodFellas,Ray Liotta,2
+GoodFellas,Joe Pesci,3
+The Matrix,Keanu Reeves,1
+The Matrix,Laurence Fishburne,2
+The Matrix,Carrie-Anne Moss,3
+Star Wars: Episode V - The Empire Strikes Back,Mark Hamill,1
+Star Wars: Episode V - The Empire Strikes Back,Harrison Ford,2
+Star Wars: Episode V - The Empire Strikes Back,Carrie Fisher,3
+Inception,Leonardo DiCaprio,1
+Inception,Joseph Gordon-Levitt,2
+Inception,Elliot Page,3
+Fight Club,Brad Pitt,1
+Fight Club,Edward Norton,2
+Fight Club,Meat Loaf,3
+The Lord of the Rings: The Two Towers,Elijah Wood,1
+The Lord of the Rings: The Two Towers,Ian McKellen,2
+The Lord of the Rings: The Two Towers,Viggo Mortensen,3
+Forrest Gump,Tom Hanks,1
+Forrest Gump,Robin Wright,2
+Forrest Gump,Gary Sinise,3
+"Il buono, il brutto, il cattivo",Clint Eastwood,1
+"Il buono, il brutto, il cattivo",Eli Wallach,2
+"Il buono, il brutto, il cattivo",Lee Van Cleef,3
+The Lord of the Rings: The Fellowship of the Ring,Elijah Wood,1
+The Lord of the Rings: The Fellowship of the Ring,Ian McKellen,2
+The Lord of the Rings: The Fellowship of the Ring,Orlando Bloom,3
