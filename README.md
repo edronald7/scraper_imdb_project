@@ -25,6 +25,8 @@ scraper_imdb_project/
 ├── data/                      # Datos generados
 │   ├── actores.csv            # Archivo CSV generado por el scraper para actores
 │   └── peliculas.csv          # Archivo CSV generado por el scraper para peliculas
+├── notebooks/                 # Jupyter notebooks
+│   ├── imdb_top50.ipynb       # Notebooks de borrador y temporal para scraping
 ├── requirements.txt           # Dependencias de Python
 ├── scrapy.cfg                 # Archivo de configuracion de scrapy
 └── README.md                  # Este documento
